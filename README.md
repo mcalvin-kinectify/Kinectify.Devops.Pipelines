@@ -1,1 +1,2 @@
+[![Board Status](https://dev.azure.com/kinectify/a3e89c68-5035-4c1b-85d2-8afeddd51ef7/f9b8b4c7-b43e-4b21-88da-98b2a067a6d8/_apis/work/boardbadge/c5dca711-0558-4e10-b649-9b47a2a6d78b)](https://dev.azure.com/kinectify/a3e89c68-5035-4c1b-85d2-8afeddd51ef7/_boards/board/t/f9b8b4c7-b43e-4b21-88da-98b2a067a6d8/Microsoft.RequirementCategory)
 # Kinectify.Devops.Pipelines
